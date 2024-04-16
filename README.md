@@ -16,13 +16,12 @@ Using the slicing concept rotate the list
 ### Step 6: 
 ## Program:
 
-```
 '''Circulate the n variables
-Developed by: SATHYAA R
-Register number: 212223100052
+Developed by: RAMYA R
+Register number: 212223230169
 '''
 
-
+```
 def circulate():
     list1=eval(input())
     n=int(input())
